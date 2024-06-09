@@ -3,6 +3,10 @@
     src: url('fairies.ttf') format('truetype');
 }
 
+html {
+    background: brown;
+}
+
 * {
     font-family: 'Fairies', sans-serif;
     font-weight: normal;
